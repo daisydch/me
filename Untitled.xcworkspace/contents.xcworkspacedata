@@ -5,7 +5,4 @@
       location = "group:test/index"
       assignedFileDataType = "public.html">
    </FileRef>
-   <FileRef
-      location = "container:test/test.xcodeproj">
-   </FileRef>
 </Workspace>
